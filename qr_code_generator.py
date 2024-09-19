@@ -1,4 +1,5 @@
 # This program creates a QR code from user input
+# Docs to qrcode: https://pypi.org/project/qrcode/
 
 # Make sure you have your virtual environment (venv) activated
 # -----------------------------

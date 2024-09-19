@@ -13,6 +13,7 @@ To clone this repository:
 - Create a program that loops asking a user if they want to continue. If the user inputs ‘no’ end the program (learn how to use a while loop)
 - Create a python list (see docs) containing 10 values. Iterate over list and print to terminal
 - Optional: Given a list of unsorted numbers sort it in ascending order
+- Optional: Create different geometric shapes using pygame (see pygame docs)
 
 <br></br>
 You may now make changes to your local copy of the repository...

@@ -1,0 +1,7 @@
+# A gitignore file is used to ignore some files from being tracked by git
+# In this case, we dont want git to track our virtual environment, myenv.
+# Virtual environments are Operating System specific and tend to contain large files,
+# making it not practical to push it to our github repository.
+
+# in order to ignore the 'myenv' folder, we simply list it below.
+myenv

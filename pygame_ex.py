@@ -2,6 +2,8 @@
 # The best way to get familiar with a new language/library is to play around with code and
 # frequently visit its official documentation: https://www.pygame.org/docs/
 
+# this example will display a purple pygame window. You can draw whatever by using the docs ^
+
 # Example file showing a basic pygame "game loop"
 import pygame
 
